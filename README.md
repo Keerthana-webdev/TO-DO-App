@@ -1,11 +1,9 @@
 ## To-Do App
-
 A simple and elegant To-Do App built using **HTML**, **CSS**, and **JavaScript**. This app allows users to add, edit, delete, and persist tasks in their browser using `localStorage`.
 
 ---
 
 ### Features
-
 - Add tasks with ease.
 - Edit existing tasks.
 - Delete tasks you no longer need.
@@ -15,7 +13,6 @@ A simple and elegant To-Do App built using **HTML**, **CSS**, and **JavaScript**
 ---
 
 ### Built With
-
 - **HTML**: For the structure of the app.
 - **CSS**: For styling and layout.
 - **JavaScript**: For functionality and dynamic behavior.
@@ -35,7 +32,6 @@ ToDoApp/
 ---
 
 ### Usage
-
     Type your task in the input field.
     Click the Add button to add the task to the list.
     Use the Edit button to modify a task.
